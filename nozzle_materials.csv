@@ -2,12 +2,11 @@ Here's a ready-to-use CSV template you can drop into your `E3D_Web_Assets` repo 
 
 ```csv
 id,name,brand,systems,body_material,tip_material,coating,abrasion_rating,thermal_rating,flow_rating,max_temp_c,abrasive_safe,high_flow,price_tier,image,url,notes
-brass,Brass,E3D,"V6, Revo, Volcano",Brass,Brass,,1,5,4,300,false,true,1,https://cdn.shopify.com/s/files/.../brass.jpg,/products/brass-nozzle,"Great default for non-abrasive filaments (PLA/PETG/ABS)."
-stainless,Stainless Steel,E3D,"V6, Revo",Stainless steel,Stainless steel,,2,3,3,300,light,false,2,https://cdn.shopify.com/s/files/.../stainless.jpg,/products/stainless-nozzle,"Food‑safe; slightly more wear‑resistant than brass."
-hardened,Hardened Steel,E3D,"V6, Revo",Hardened tool steel,Hardened tool steel,,4,2,3,500,true,false,3,https://cdn.shopify.com/s/files/.../hardened.jpg,/products/hardened-steel-nozzle,"Good for abrasive filaments with moderate flow rates."
-obxidian,ObXidian,E3D Revo,Revo,"Hardened tool steel core",Hardened steel,"E3DLC / WS₂ infused hard coating",5,2,4,300,true,true,4,https://cdn.shopify.com/s/files/.../obxidian.jpg,/products/revo-obxidian-nozzle,"Low-friction hard coat; great for CF/Glow."
-diamondback,DiamondBack,"DiamondBack / E3D","V6, Revo",Brass body,Single‑crystal diamond tip,,5,5,4,500,true,true,5,https://cdn.shopify.com/s/files/.../diamondback.jpg,/products/diamondback-nozzle,"Ultimate wear resistance; brass-like thermal performance."
-nozzlex,Nozzle X,E3D,V6,Hardened tool steel,Hardened tool steel,"Ni‑phosphor + WS₂",4,2,3,500,true,false,4,https://cdn.shopify.com/s/files/.../nozzlex.jpg,/products/nozzle-x,"Durable V6 option for abrasive filaments."
+brass,Brass,E3D,"V6, Revo, Volcano",Brass,Brass,,1,5,4,300,false,true,1,https://cdn.shopify.com/s/files/.../brass.jpg,/products/brass-nozzle,Great default for non-abrasive filaments (PLA/PETG/ABS).
+stainless,Stainless Steel,E3D,"V6, Revo",Stainless steel,Stainless steel,,2,3,3,300,light,false,2,https://cdn.shopify.com/s/files/.../stainless.jpg,/products/stainless-nozzle,Food-safe; slightly more wear-resistant than brass.
+obxidian,ObXidian,E3D Revo,Revo,Hardened tool steel core,Tool Steel,E3DLC,4,5,4,300,true,true,4,https://cdn.shopify.com/s/files/.../obxidian.jpg,/products/revo-obxidian-nozzle,Low-friction hard coat; great for CF/Glow.
+diamond,DiamondBack,,"V6,Revo,Volcano, Bambu X1C, Bambu P1P, Bambu P1S, Bambu, X1E, Prusa Nextruder, Creality Unicorn",Nickel Plated Copper,Polycrystaline Diamond,,5,5,2,300,true,false,5,https://cdn.shopify.com/s/files/.../obxidian.jpg,,
+
 ```
 
 Steps:
