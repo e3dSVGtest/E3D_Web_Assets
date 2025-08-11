@@ -1,7 +1,7 @@
 Here's a ready-to-use CSV template you can drop into your `E3D_Web_Assets` repo as `nozzle_materials.csv`:
 
 ```csv
-d,name,brand,systems,body_material,tip_material,coating,abrasion_rating,thermal_rating,flow_rating,max_temp_c,abrasive_safe,high_flow,price_tier,image,url,notes
+id,name,brand,systems,body_material,tip_material,coating,abrasion_rating,thermal_rating,flow_rating,max_temp_c,abrasive_safe,high_flow,price_tier,image,url,notes
 brass,Brass,E3D,"V6, Revo, Volcano",Brass,Brass,,1,5,4,300,false,true,1,https://cdn.shopify.com/s/files/.../brass.jpg,/products/brass-nozzle,Great default for non-abrasive filaments (PLA/PETG/ABS).
 stainless,Stainless Steel,E3D,"V6, Revo",Stainless steel,Stainless steel,,2,3,3,300,light,false,2,https://cdn.shopify.com/s/files/.../stainless.jpg,/products/stainless-nozzle,Food-safe; slightly more wear-resistant than brass.
 obxidian,ObXidian,E3D iRevo,Revo,Hardened tool steel core,Tool Steel,E3DLC,4,5,4,300,true,true,4,https://cdn.shopify.com/s/files/.../obxidian.jpg,/products/revo-obxidian-nozzle,Low-friction hard coat; great for CF/Glow.
